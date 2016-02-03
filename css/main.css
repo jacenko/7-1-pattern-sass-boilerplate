@@ -1,0 +1,44 @@
+/* _-_-_- base/RESET -_-_-_ */
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* _-_-_- base/BASE -_-_-_ */
+.clearfix {
+  overflow: auto;
+  zoom: 1; }
+
+/* _-_-_- base/TYPOGRAPHY -_-_-_ */
+/* _-_-_- layout/FOOTER -_-_-_ */
+/* _-_-_- layout/FORMS -_-_-_ */
+/* _-_-_- layout/GRID -_-_-_ */
+/* _-_-_- layout/HEADER -_-_-_ */
+/* _-_-_- layout/NAVIGATION -_-_-_ */
+/* _-_-_- layout/SIDEBAR -_-_-_ */
+/* _-_-_- modules/BUTTONS -_-_-_ */
+/* _-_-_- modules/DROPDOWN -_-_-_ */
+/* _-_-_- modules/THUMBNAILS -_-_-_ */
+/* _-_-_- pages/ABOUT -_-_-_ */
+/* _-_-_- pages/CONTACT -_-_-_ */
+/* _-_-_- pages/HOME -_-_-_ */
+
+/*# sourceMappingURL=main.css.map */
